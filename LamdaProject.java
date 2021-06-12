@@ -1,6 +1,9 @@
 package lamdaproject;
 import java.util.function.BiPredicate;
 
+// NAME : Omar Mohamed Abd El-Hamid
+// Group : G_10
+
 public class LamdaProject {
 
 public static String betterString(String s1 , String s2 , BiPredicate<String,String> bi){
